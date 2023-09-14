@@ -14,3 +14,7 @@ Saved
 *.xcworkspace
 #Starter Content Anti-Push
 Content/StarterContent/*
+#ThirdPerson Pack Removal
+Content/Characters/*
+Content/LevelPrototyping/*
+Content/ThirdPerson*
